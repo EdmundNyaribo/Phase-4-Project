@@ -1,6 +1,7 @@
 # Dream House International
 ## Zillow Real Estate Time Series Analysis
 
+![Housing](https://github.com/EdmundNyaribo/Phase-4-Project/blob/master/images/WhatsApp%20Image%202024-07-25%20at%201.00.14%20PM.jpeg)
 
 ### OVERVIEW
 This project involves building a time series model using Zillow data  from Zillow Research to aid real estate investors in making informed investment decisions. The dataset comprises property information, and the project encompasses data preprocessing, time series transformation, exploratory data analysis, model selection, training, and evaluation. The model's objective is to forecast property price trends, which will be presented to investors through a user-friendly interface. Recommendations on where to invest will be provided based on these predictions and supplemented with additional insights from EDA. The project also includes documentation, deployment, maintenance, and a feedback loop to continuously enhance the model's accuracy and relevance to real estate investment needs.
@@ -55,7 +56,8 @@ The top 5 best zip codes to invest in:
 
 
 ### For More Information
-Please review my full analysis in my Jupyter Notebook or my Presentation
+Please review my full analysis in my  ![Jupyter Notebook](https://github.com/EdmundNyaribo/Phase-4-Project/blob/master/Student.ipynb) or my ![Presentation](https://github.com/EdmundNyaribo/Phase-4-Project/blob/master/zillow%20presantation.pdf)
+
 
 ```python
 
